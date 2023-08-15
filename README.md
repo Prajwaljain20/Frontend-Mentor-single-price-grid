@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-single-price-grid/assets/76695932/fda6c717-ca79-4555-8052-23b0234b98e2)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Prajwaljain20/Frontend-Mentor-single-price-grid)
+- Live Site URL: [Github pages](https://prajwaljain20.github.io/Frontend-Mentor-single-price-grid/)
 
 ## My process
 
